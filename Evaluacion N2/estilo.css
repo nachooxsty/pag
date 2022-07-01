@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+.fondoform{
+    color: rgb(0, 0, 0);
+    background-color: rgba(124, 222, 240, 0.836);
+    padding-left: 200px;
+    
+}
+.fondoform ul{
+    color: rgb(0, 0, 0);
+    list-style-type: none;
+    padding-bottom: 20px;
+
+}
+
+.navbar-brand{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-item{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+.boton{
+    border: none;
+}
+
+
+.logo{
+    width: 120px;
+
+}
+
+#galeria .col-lg-3{
+    margin: 0 !important;
+    padding: 25px;
+}
+
+#galeria img{
+    width: 100%;
+    height: 470px;
+}
+#galeria img:hover{
+    border: 5px solid #ffffff;
+}
+
+.descripcion-productos{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Helvetica, sans-serif, 'Trebuchet MS', sans-serif;
+}
+
+.titulo-productos{
+    text-align: center;
+}
+
+.inicio-productos{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#inicio img{
+    width: 100%;
+    height: 590px;
+}
+
+
+
+
+
+
+
+
